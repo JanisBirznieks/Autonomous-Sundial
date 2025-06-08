@@ -56,4 +56,3 @@ See [`LICENSE.txt`](LICENSE.txt) for full terms.
 
 This is an academic project submitted as part of a final coursework requirement. The repository is currently **private** and shared for review purposes only.
 
-Future public release or licensing terms will be determined at a later stage.
