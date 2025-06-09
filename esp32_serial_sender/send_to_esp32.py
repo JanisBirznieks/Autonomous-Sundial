@@ -26,7 +26,7 @@ def send_time_and_location():
     if g.ok and g.latlng:
         latitude, longitude = g.latlng
     else:
-        latitude, longitude = 56.5047, 21.0108  # Fallback if geolocation fails
+        latitude, longitude = 37.2350, -115.8111  # Fallback if geolocation fails
         print("⚠️  Using fallback coordinates.")
 
     location_string = f"LOC:{latitude},{longitude}\n"
