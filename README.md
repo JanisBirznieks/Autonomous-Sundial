@@ -1,4 +1,4 @@
-# 🌞 Autonomous Sundial
+#  Autonomous Sundial
 
 **Author:** Jānis Birznieks  
 **Year:** 2025
