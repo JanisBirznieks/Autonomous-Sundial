@@ -7,9 +7,9 @@ from collections import deque
 # === CONFIG ===
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'esp_user',
-    'password': 'ESPtesting123!!!',
-    'database': 'esp_user'
+    'user': 'database_USER',
+    'password': 'database_PW',
+    'database': 'database_NAME'
 }
 
 MAX_POINTS = 100  # For LDR history
