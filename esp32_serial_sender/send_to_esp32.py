@@ -11,9 +11,9 @@ time.sleep(2)  # Wait for ESP32 to initialize
 # MySQL connection setup
 db = mysql.connector.connect(
     host="localhost",
-    user="esp_user",
-    password="ESPtesting123!!!",
-    database="esp_user"
+    user="database_USER",
+    password="database_PW",
+    database="database_Name"
 )
 cursor = db.cursor()
 
